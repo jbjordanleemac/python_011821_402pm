@@ -106,3 +106,5 @@ thisjson='{"one":"mon", "two":"tue", "three":"wed"}'
 i=json.loads(thisjson)
 
 print(i["one"])
+
+print(i["two"])
